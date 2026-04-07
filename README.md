@@ -1,4 +1,6 @@
 
+<img width="1376" height="768" alt="Gemini_Generated_Image_cl3pr8cl3pr8cl3p" src="https://github.com/user-attachments/assets/05baeec5-3ec7-4316-abba-0d23cdb7f8b1" />
+
 # Hi, I am Stiven Moscoso 👋
 
 I am a Software Developer focused on building robust web applications. My expertise lies in the JavaScript ecosystem, particularly with Node.js and Express, managing databases like PostgreSQL and MongoDB. I enjoy solving complex problems, writing clean code, and continuously learning new frameworks to stay at the forefront of the industry.
